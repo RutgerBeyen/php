@@ -1,1 +1,1 @@
-<?php echo "hi there!!!"; ?>
+<?php echo "Auto deploy! hi there!!!"; ?>
